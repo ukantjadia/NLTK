@@ -14,7 +14,7 @@
 > Some execution details and help is written in markdown.
 
 ## Stages
-- [ ] Twitter bot for storing the trending tweets.
+- [x] Twitter bot for storing the trending tweets.
 - [ ] Program designed to detect emotions in tweets that have been stored.
 - [ ] Generating data and also tweeting a quote in thread.
 
