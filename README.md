@@ -1,6 +1,4 @@
 # NLTK Emotion Detector
-Natural Language Tool Kit
----
 
 **Aim**: To create a Twitter bot in python for detecting the emotions of tweets.
 
@@ -10,15 +8,15 @@ Natural Language Tool Kit
 - After completion, this will be used with Twitter for detecting the emotion and tweeting in response.
 
 ## Installation
-- requirement.txt will be provided very soon.
+- requirements.txt will be provided very soon.
 - Just connect to the kernel and run it all in the notebook.
 
 
-> Some execution detilas and help is written in markdown. 
+> Some execution details and help is written in markdown.
 
 ## Stages
 - [ ] Twitter bot for storing trending tweets.
-- [ ] A program designed to detect emotions in tweets that have been stored.
+- [ ] A Program designed to detect emotions in tweets that have been stored.
 - [ ] Generating data and also tweeting a quote in the thread.
 
 ## Contribution
